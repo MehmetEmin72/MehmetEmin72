@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmeteminayrilmak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmeteminayrilmak/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmet-emin-b39245252)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmeteminayrilmak/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mehmeteminayrilmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mehmeteminayrilmak" height="30" width="40" /></a>
 </p>
 
@@ -23,5 +23,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-![snake gif](https://github.com/MehmetEmin72/MehmetEmin72/blob/output/github-contribution-grid-snake.svg)
 ![](https://komarev.com/ghpvc/?username=MehmetEmin72&color=blue)
